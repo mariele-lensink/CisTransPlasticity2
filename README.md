@@ -20,6 +20,7 @@ Script:[significance_comparison.R](Scripts/significance_comparison.R)
 ![parent variance](Figures/significancetests_parents.png)![ril variance](Figures/significancetests_rils.png)
 ### Principal Component Analysis
 Script: [PCA.R](Scripts/PCA.R)
+![PCA-SA](Figures/pca_SA.png)![PCA-SW](Figures/pca_SW.png)![PCA-DELTA](Figures/pca_delta.png)
 ### 3 Quantitative Trait Loci Anass/figures_cistrans.R)
 ### Effect Size Calculation
 Scripts: [SAqtl.R](Scripts/SAqtl.R), [SWqtl.R)](Scripts/SWqtl.R), [SASWqtl.R](Scripts/SASWqtl.R)
