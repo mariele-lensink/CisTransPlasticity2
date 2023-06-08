@@ -25,7 +25,7 @@ Script: [PCA.R](Scripts/PCA.R)
 ### Effect Size Calculation
 Scripts: [SAqtl.R](Scripts/SAqtl.R), [SWqtl.R)](Scripts/SWqtl.R), [SASWqtl.R](Scripts/SASWqtl.R)
 
-![qtl map unscaled](Figures/QTLfrequency.png)![qtl map delta scaled](Figures/QTLfrequency_deltascaled.png)
+![qtl map unscaled](Figures/QTLfrequency.png)
 ### Randomization and Permutations
 Script: [qtl_slidingwindow_and_permutations.R](Scripts/qtl_slidingwindow_and_permutations.R)
 ### Cis Vs Trans Identification and Quantification
